@@ -1,7 +1,7 @@
 # LULC-Mapping-Sentinel2-GEE
 Land Use Land Cover (LULC) Mapping using Sentinel-2 in Google Earth Engine with Random Forest Classification
 
-# LULC Mapping using Sentinel-2 (Google Earth Engine)
+
 
 ## Overview
 This project demonstrates Land Use Land Cover (LULC) classification using Sentinel-2 imagery in Google Earth Engine (GEE) with a Random Forest classifier.
